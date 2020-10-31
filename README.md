@@ -1,5 +1,5 @@
 # StockGame
-A Stock Game can save and load. A stock-like millionaire game.
+A Stock Game can buy and sell stocks,save and load files,and play games with computer players. A stock-like millionaire game.
 ![](https://i.imgur.com/ZuLZ2Sd.jpg)
 
 UML
